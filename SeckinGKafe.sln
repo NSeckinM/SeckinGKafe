@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeckinGKafe.UI", "SeckinGKafe.UI\SeckinGKafe.UI.csproj", "{3A483AF6-DFDC-4661-B915-393A13060E53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeckinGKafe.Data", "SeckinGKafe.Data\SeckinGKafe.Data.csproj", "{98BD00D7-1DD1-412E-9594-0D85FA660234}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A483AF6-DFDC-4661-B915-393A13060E53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A483AF6-DFDC-4661-B915-393A13060E53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A483AF6-DFDC-4661-B915-393A13060E53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A483AF6-DFDC-4661-B915-393A13060E53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98BD00D7-1DD1-412E-9594-0D85FA660234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98BD00D7-1DD1-412E-9594-0D85FA660234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98BD00D7-1DD1-412E-9594-0D85FA660234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98BD00D7-1DD1-412E-9594-0D85FA660234}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEE81EC0-CE47-4D8F-BAF4-1574D98391B4}
+	EndGlobalSection
+EndGlobal
